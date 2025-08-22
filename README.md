@@ -1,4 +1,4 @@
-# 🏦 Banking System (SQLite + Python + Streamlit)
+# 🏦 Banking System (SQLite + Python + Streamlit) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://banking-system-st.streamlit.app/)
 
 This is a **Bank Management System** built with **Python, SQLite, and Streamlit**.
 It allows users to create accounts, deposit/withdraw money, update details, and view account information.
